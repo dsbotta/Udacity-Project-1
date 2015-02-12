@@ -1,0 +1,42 @@
+/*General Styles*/
+
+body {
+	font-family: Verdana, sans-serif;
+	color: #666;
+	font-size: 16px;
+	line-height: 2em;
+}
+
+h1 {
+	font-size: 48px;
+	margin-top: 47px;
+}
+
+h2 {
+	color: #f07c17;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+/*Specific Styles*/
+
+#image {
+	margin-top: 18px;
+}
+
+#sub-heading-right {
+	margin-bottom: 28px;
+}
+
+#main-features {
+	border: solid 1px #ccc;
+	margin-top: 32px;
+	height: 224px;
+}
+
+#main-features h2,
+#main-features ul {
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
